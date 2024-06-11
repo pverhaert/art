@@ -1,0 +1,146 @@
+{
+  "painters": [
+    {
+      "id": 1,
+      "name": "Leonardo da Vinci",
+      "born": 1452,
+      "dead": 1519,
+      "bio": "Polymath and one of the most influential artists of the Renaissance"
+    },
+    {
+      "id": 2,
+      "name": "Vincent van Gogh",
+      "born": 1853,
+      "dead": 1890,
+      "bio": "Post-Impressionist painter known for his bold and expressive use of color"
+    },
+    {
+      "id": 3,
+      "name": "Pablo Picasso",
+      "born": 1881,
+      "dead": 1973,
+      "bio": "Cubist painter and sculptor who is widely regarded as one of the most influential artists of the 20th century"
+    },
+    {
+      "id": 4,
+      "name": "Claude Monet",
+      "born": 1840,
+      "dead": 1926,
+      "bio": "Founder of the Impressionist movement, known for his dreamy landscapes and captivating light effects"
+    },
+    {
+      "id": 5,
+      "name": "Johannes Vermeer",
+      "born": 1632,
+      "dead": 1675,
+      "bio": "Dutch painter known for his exquisite and intimate domestic scenes"
+    },
+    {
+      "id": 6,
+      "name": "Raphael",
+      "born": 1483,
+      "dead": 1520,
+      "bio": "Renaissance painter and architect, known for his harmonious and balanced compositions"
+    },
+    {
+      "id": 7,
+      "name": "Caravaggio",
+      "born": 1571,
+      "dead": 1610,
+      "bio": "Baroque painter known for his dramatic and emotionally charged works"
+    },
+    {
+      "id": 8,
+      "name": "Rembrandt van Rijn",
+      "born": 1606,
+      "dead": 1669,
+      "bio": "Dutch painter and etcher, known for his expressive and empathetic portraits"
+    },
+    {
+      "id": 9,
+      "name": "Francisco Goya",
+      "born": 1746,
+      "dead": 1828,
+      "bio": "Spanish Romantic painter, known for his bold and expressive use of color and light"
+    },
+    {
+      "id": 10,
+      "name": "Salvador Dali",
+      "born": 1904,
+      "dead": 1989,
+      "bio": "Surrealist painter, known for his bizarre and dreamlike creations"
+    }
+  ],
+  "paintings": [
+    {
+      "id": 1,
+      "name": "Mona Lisa",
+      "museum": "Louvre Museum, Paris",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa_%28Leonardo_da_Vinci%29.jpg/1200px-Mona_Lisa_%28Leonardo_da_Vinci%29.jpg",
+      "description": "One of the most famous paintings in the world, the enigmatic smile of the Mona Lisa continues to fascinate art lovers"
+    },
+    {
+      "id": 2,
+      "name": "Starry Night",
+      "museum": "Museum of Modern Art, New York",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "description": "A swirling depiction of the night sky, with vibrant stars and a bright crescent moon"
+    },
+    {
+      "id": 3,
+      "name": "Guernica",
+      "museum": "Reina Sofia Museum, Madrid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pablo_Picasso_-_Guernica_-_Google_Art_Project.jpg/1200px-Pablo_Picasso_-_Guernica_-_Google_Art_Project.jpg",
+      "description": "A powerful anti-war painting, depicting the horrors of the bombing of Guernica during the Spanish Civil War"
+    },
+    {
+      "id": 4,
+      "name": "Impression, Sunrise",
+      "museum": "Marmottan Monet Museum, Paris",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Claude_Monet_-_Impression_Sunrise_-_Google_Art_Project.jpg/1200px-Claude_Monet_-_Impression_Sunrise_-_Google_Art_Project.jpg",
+      "description": "A dreamy depiction of a sunrise in the harbor of Le Havre, with soft colors and feathery brushstrokes"
+    },
+    {
+      "id": 5,
+      "name": "Girl with a Pearl Earring",
+      "museum": "Mauritshuis, The Hague",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Johannes_Vermeer_-_Girl_with_a_Pearl_Earring_-_Google_Art_Project.jpg/1200px-Johannes_Vermeer_-_Girl_with_a_Pearl_Earring_-_Google_Art_Project.jpg",
+      "description": "A serene and intimate portrait of a young girl, with a large pearl earring and a gentle gaze"
+    },
+    {
+      "id": 6,
+      "name": "The Sistine Madonna",
+      "museum": "Gemäldegalerie Alte Meister, Dresden",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Raphael_-_The_Sistine_Madonna_-_Google_Art_Project.jpg/1200px-Raphael_-_The_Sistine_Madonna_-_Google_Art_Project.jpg",
+      "description": "A beautiful depiction of the Virgin Mary and the Christ child, surrounded by saints and angels"
+    },
+    {
+      "id": 7,
+      "name": "The Taking of Christ",
+      "museum": "National Gallery of Ireland, Dublin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Caravaggio_-_The_Taking_of_Christ_-_Google_Art_Project.jpg/1200px-Caravaggio_-_The_Taking_of_Christ_-_Google_Art_Project.jpg",
+      "description": "A dramatic and emotionally charged depiction of the arrest of Jesus in the Garden of Gethsemane"
+    },
+    {
+      "id": 8,
+      "name": "The Night Watch",
+      "museum": "Rijksmuseum, Amsterdam",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rembrandt_-_The_Night_Watch_-_Google_Art_Project.jpg/1200px-Rembrandt_-_The_Night_Watch_-_Google_Art_Project.jpg",
+      "description": "A grand and dynamic depiction of a militia company, with vivid colors and dramatic lighting"
+    },
+    {
+      "id": 9,
+      "name": "The Third of May 1808",
+      "museum": "Museo del Prado, Madrid",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Francisco_Goya_-_The_Third_of_May_1808_-_Google_Art_Project.jpg/1200px-Francisco_Goya_-_The_Third_of_May_1808_-_Google_Art_Project.jpg",
+      "description": "A powerful and haunting depiction of the brutal suppression of a rebellion in Madrid"
+    },
+    {
+      "id": 10,
+      "name": "The Persistence of Memory",
+      "museum": "Museum of Modern Art, New York",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salvador_Dal%C3%AD_-_The_Persistence_of_Memory_-_Google_Art_Project.jpg/1200px-Salvador_Dal%C3%AD_-_The_Persistence_of_Memory_-_Google_Art_Project.jpg",
+      "description": "A surreal and dreamlike depiction of melting clocks and other bizarre objects, in a dreamlike landscape"
+    }
+  ]
+}
