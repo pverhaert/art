@@ -76,70 +76,70 @@
       "id": 1,
       "name": "Mona Lisa",
       "museum": "Louvre Museum, Paris",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa_%28Leonardo_da_Vinci%29.jpg/1200px-Mona_Lisa_%28Leonardo_da_Vinci%29.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/322px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
       "description": "One of the most famous paintings in the world, the enigmatic smile of the Mona Lisa continues to fascinate art lovers"
     },
     {
       "id": 2,
       "name": "Starry Night",
       "museum": "Museum of Modern Art, New York",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1200px-Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/VanGogh-starry_night.jpg/301px-VanGogh-starry_night.jpg",
       "description": "A swirling depiction of the night sky, with vibrant stars and a bright crescent moon"
     },
     {
       "id": 3,
       "name": "Guernica",
       "museum": "Reina Sofia Museum, Madrid",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pablo_Picasso_-_Guernica_-_Google_Art_Project.jpg/1200px-Pablo_Picasso_-_Guernica_-_Google_Art_Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mural_del_Gernika.jpg/320px-Mural_del_Gernika.jpg",
       "description": "A powerful anti-war painting, depicting the horrors of the bombing of Guernica during the Spanish Civil War"
     },
     {
       "id": 4,
       "name": "Impression, Sunrise",
       "museum": "Marmottan Monet Museum, Paris",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Claude_Monet_-_Impression_Sunrise_-_Google_Art_Project.jpg/1200px-Claude_Monet_-_Impression_Sunrise_-_Google_Art_Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/310px-Monet_-_Impression%2C_Sunrise.jpg",
       "description": "A dreamy depiction of a sunrise in the harbor of Le Havre, with soft colors and feathery brushstrokes"
     },
     {
       "id": 5,
       "name": "Girl with a Pearl Earring",
       "museum": "Mauritshuis, The Hague",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Johannes_Vermeer_-_Girl_with_a_Pearl_Earring_-_Google_Art_Project.jpg/1200px-Johannes_Vermeer_-_Girl_with_a_Pearl_Earring_-_Google_Art_Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/405px-1665_Girl_with_a_Pearl_Earring.jpg",
       "description": "A serene and intimate portrait of a young girl, with a large pearl earring and a gentle gaze"
     },
     {
       "id": 6,
       "name": "The Sistine Madonna",
       "museum": "Gemäldegalerie Alte Meister, Dresden",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Raphael_-_The_Sistine_Madonna_-_Google_Art_Project.jpg/1200px-Raphael_-_The_Sistine_Madonna_-_Google_Art_Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RAFAEL_-_Madonna_Sixtina_%28Gem%C3%A4ldegalerie_Alter_Meister%2C_Dresden%2C_1513-14._%C3%93leo_sobre_lienzo%2C_265_x_196_cm%29.jpg/350px-RAFAEL_-_Madonna_Sixtina_%28Gem%C3%A4ldegalerie_Alter_Meister%2C_Dresden%2C_1513-14._%C3%93leo_sobre_lienzo%2C_265_x_196_cm%29.jpg",
       "description": "A beautiful depiction of the Virgin Mary and the Christ child, surrounded by saints and angels"
     },
     {
       "id": 7,
       "name": "The Taking of Christ",
       "museum": "National Gallery of Ireland, Dublin",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Caravaggio_-_The_Taking_of_Christ_-_Google_Art_Project.jpg/1200px-Caravaggio_-_The_Taking_of_Christ_-_Google_Art_Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Taking_of_Christ-Caravaggio_%28c.1602%29.jpg/310px-The_Taking_of_Christ-Caravaggio_%28c.1602%29.jpg",
       "description": "A dramatic and emotionally charged depiction of the arrest of Jesus in the Garden of Gethsemane"
     },
     {
       "id": 8,
       "name": "The Night Watch",
       "museum": "Rijksmuseum, Amsterdam",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rembrandt_-_The_Night_Watch_-_Google_Art_Project.jpg/1200px-Rembrandt_-_The_Night_Watch_-_Google_Art_Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/573px-The_Night_Watch_-_HD.jpg",
       "description": "A grand and dynamic depiction of a militia company, with vivid colors and dramatic lighting"
     },
     {
       "id": 9,
       "name": "The Third of May 1808",
       "museum": "Museo del Prado, Madrid",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Francisco_Goya_-_The_Third_of_May_1808_-_Google_Art_Project.jpg/1200px-Francisco_Goya_-_The_Third_of_May_1808_-_Google_Art_Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg/311px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg",
       "description": "A powerful and haunting depiction of the brutal suppression of a rebellion in Madrid"
     },
     {
       "id": 10,
       "name": "The Persistence of Memory",
       "museum": "Museum of Modern Art, New York",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Salvador_Dal%C3%AD_-_The_Persistence_of_Memory_-_Google_Art_Project.jpg/1200px-Salvador_Dal%C3%AD_-_The_Persistence_of_Memory_-_Google_Art_Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
       "description": "A surreal and dreamlike depiction of melting clocks and other bizarre objects, in a dreamlike landscape"
     }
   ]
